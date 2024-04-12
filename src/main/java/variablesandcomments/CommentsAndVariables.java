@@ -1,4 +1,8 @@
 package variablesandcomments;
 
-public class CommentsAndVariables {
+public class CommentsAndVariables
+{
+    public static void main(String[] args) {
+        System.out.println("hello!!!");
+    }
 }
